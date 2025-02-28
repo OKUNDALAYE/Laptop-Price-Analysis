@@ -2,11 +2,16 @@
 ## TABLE OF CONTENT
 - [INTRODUCTION](#INTRODUCTION)
 - [OBJECTIVE](#OBJECTIVE)
+- [Potential Questions to Explore](#Potential Questions to Explore)
+- [Data Source](#Data Source)
+- [Dataset Columns](#Dataset Columns)
+- [Data Cleaning](#Data Cleaning)
+- [INSIGHT](#INSIGHT)
 ## INTRODUCTION
 ###### This dataset contains 11,768 records of laptops with various hardware specifications and prices. It is designed for predictive modeling, price estimation, and exploratory data analysis. The dataset includes real-world values to reflect the factors that influence laptop prices.
 ## OBJECTIVE
 ###### The primary objective of this analysis is to analyze the factors that influence laptop prices and help users make informed purchasing decisions. It can also be used to identify trends in laptop features, performance metrics, and brand pricing strategies.
-## Potential Questions to Explore:
+## Potential Questions to Explore
 ### 1.	Price Analysis:
 ###### o	What is the average price of laptops based on the brand?
 ###### o	How does the processor type affect the price?
@@ -27,7 +32,7 @@
 ###### The data was downloaded from kaggle.com and loaded into Excel.
 ###### The contains 11 columns and 11769 rows.
 ### The following are information on the dataset used:
-### Dataset Columns
+## Dataset Columns
 ###### 1.	Brand: The manufacturer of the laptop (e.g., Dell, HP, Apple, Asus, Lenovo).
 ###### 2.	Processor: The CPU model, including Intel (i3, i5, i7, i9) and AMD Ryzen (3, 5, 7, 9).
 ###### 3.	RAM (GB): The laptop's memory size (e.g., 4GB, 8GB, 16GB, 32GB, 64GB).
