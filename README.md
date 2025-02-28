@@ -48,7 +48,7 @@
 ### Price Analysis
 ###### 1.	Apple laptops have the highest average price, likely due to premium build quality and brand value. Razer laptops are generally more expensive than MSI and Lenovo, possibly due to high-end specifications (e.g., larger storage, better GPUs). Acer offers the most budget-friendly options in this dataset
 
-! [image](https://github.com/OKUNDALAYE/Laptop-Price-Analysis/blob/main/assets/images/1.png)
+![image](https://github.com/OKUNDALAYE/Laptop-Price-Analysis/blob/main/assets/images/1.png)
 
 ###### 2.	Laptops with Intel i9 and AMD Ryzen 9 processors are the most expensive, likely due to their high performance for gaming, video editing, and professional workloads. Mid-range processors like Intel i5 and AMD Ryzen 5 offer a balance between performance and price while Budget-friendly laptops tend to use Intel i3 or AMD Ryzen 3 processors.
 ###### 3.	A correlation coefficient of 0.62 indicates a moderate positive correlation between RAM size and laptop price. As the RAM size increases, the laptop price tends to increase as well. A correlation of 0.62 suggests that RAM size explains some of the variability in laptop prices, but there are still other factors contributing to the price differences Laptops with higher RAM generally cost more because they offer better multitasking capabilities and performance.
