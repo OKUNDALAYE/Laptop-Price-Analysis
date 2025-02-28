@@ -51,16 +51,25 @@
 ![image](https://github.com/OKUNDALAYE/Laptop-Price-Analysis/blob/main/assets/images/1.png)
 
 ###### 2.	Laptops with Intel i9 and AMD Ryzen 9 processors are the most expensive, likely due to their high performance for gaming, video editing, and professional workloads. Mid-range processors like Intel i5 and AMD Ryzen 5 offer a balance between performance and price while Budget-friendly laptops tend to use Intel i3 or AMD Ryzen 3 processors.
+![image](https://github.com/OKUNDALAYE/Laptop-Price-Analysis/blob/main/assets/images/2.png)
 ###### 3.	A correlation coefficient of 0.62 indicates a moderate positive correlation between RAM size and laptop price. As the RAM size increases, the laptop price tends to increase as well. A correlation of 0.62 suggests that RAM size explains some of the variability in laptop prices, but there are still other factors contributing to the price differences Laptops with higher RAM generally cost more because they offer better multitasking capabilities and performance.
+![image](https://github.com/OKUNDALAYE/Laptop-Price-Analysis/blob/main/assets/images/3.png)
 ### Performance vs. Price
 ###### 4.	Laptops equipped with dedicated GPUs (like the Nvidia RTX series or AMD Radeon) are generally more expensive due to their enhanced graphical performance, which is ideal for gaming, video editing, and 3D rendering. The Nvidia RTX 3060 has the highest average price, possibly due to its balance between performance and cost-efficiency. Laptops with Integrated GPUs are significantly cheaper, as they rely on shared system resources and are better suited for basic tasks like web browsing and document editing.
+![image](https://github.com/OKUNDALAYE/Laptop-Price-Analysis/blob/main/assets/images/4.png)
 ###### 5.	A correlation of 0.01 suggests a very weak positive correlation between battery life and laptop price. Laptops with longer battery life tend to be slightly more expensive, but battery life isn't a major factor influencing price. Factors like processor, GPU, RAM, and brand seem to have a much stronger influence on laptop prices.
+![image](https://github.com/OKUNDALAYE/Laptop-Price-Analysis/blob/main/assets/images/5.png)
 ### Brand Comparison:
 ###### 6. Apple, HP and Dell brand tend to offer higher battery life compare to Acer and Asus. Razer band has the least battery life (hour).
+![image](https://github.com/OKUNDALAYE/Laptop-Price-Analysis/blob/main/assets/images/6.png)
 ### Feature Insights:
 ###### 7.	The most common screen sizes are usually 14 inches or 13.3 inches in this dataset. Larger screens like 15.6, 16 and 17.3 inches are less common due to portability issues.
+![image](https://github.com/OKUNDALAYE/Laptop-Price-Analysis/blob/main/assets/images/7.png)
 ###### 8.	Higher storage capacity generally leads to a higher laptop price. SSDs (Solid State Drives) are faster, more reliable, and more expensive than HDDs (Hard Disk Drives). Laptops with larger SSDs (512GB, 1TB, or higher) are typically more expensive than those with similar capacities in HDDs.
+![image](https://github.com/OKUNDALAYE/Laptop-Price-Analysis/blob/main/assets/images/8.png)
 Operating System Impact:
 ###### 9.	Operating systems do affect the price, mainly due to licensing costs and the target market (e.g., Windows for general users, Free DOS for developers or advanced users who install their own OS).
+![image](https://github.com/OKUNDALAYE/Laptop-Price-Analysis/blob/main/assets/images/9.png)
 Weight and Portability:
 ###### 10.	The correlation between Weight and Battery Life is -0.0018 which indicate there is no clear relationship between Weight and battery life.
+![image](https://github.com/OKUNDALAYE/Laptop-Price-Analysis/blob/main/assets/images/10.png)
