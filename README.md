@@ -1,14 +1,14 @@
 # LAPTOP PRICE PREDICTION DATASET
 ## TABLE OF CONTENT
-[INTRODUCTION](##INTRODUCTION)
-[OBJECTIVE](#OBJECTIVE)
+- [INTRODUCTION](#INTRODUCTION)
+- [OBJECTIVE](#OBJECTIVE)
 ## INTRODUCTION
 ###### This dataset contains 11,768 records of laptops with various hardware specifications and prices. It is designed for predictive modeling, price estimation, and exploratory data analysis. The dataset includes real-world values to reflect the factors that influence laptop prices.
 ## OBJECTIVE
 ###### The primary objective of this analysis is to analyze the factors that influence laptop prices and help users make informed purchasing decisions. It can also be used to identify trends in laptop features, performance metrics, and brand pricing strategies.
 ## Potential Questions to Explore:
 ### 1.	Price Analysis:
-######o	What is the average price of laptops based on the brand?
+###### o	What is the average price of laptops based on the brand?
 ###### o	How does the processor type affect the price?
 ###### o	Is there a significant correlation between RAM size and laptop price?
 ### 2.	Performance vs. Price:
