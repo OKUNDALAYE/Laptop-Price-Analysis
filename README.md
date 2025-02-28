@@ -2,10 +2,10 @@
 ## TABLE OF CONTENT
 - [INTRODUCTION](#INTRODUCTION)
 - [OBJECTIVE](#OBJECTIVE)
-- [Potential Questions to Explore](#Potential Questions to Explore)
-- [Data Source](#Data Source)
-- [Dataset Columns](#Dataset Columns)
-- [Data Cleaning](#Data Cleaning)
+- [Potential Questions to Explore](#Potential-Questions-to-Explore)
+- [Data Source](#Data-Source)
+- [Dataset Columns](#Dataset-Columns)
+- [Data Cleaning](#Data-Cleaning)
 - [INSIGHT](#INSIGHT)
 ## INTRODUCTION
 ###### This dataset contains 11,768 records of laptops with various hardware specifications and prices. It is designed for predictive modeling, price estimation, and exploratory data analysis. The dataset includes real-world values to reflect the factors that influence laptop prices.
